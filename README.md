@@ -1,19 +1,7 @@
 ﻿# ewt-cli
 
-Minimal Epistemic Wind Tunnel CLI.
-
-Purpose:
-
-- test distinction -> commitment
-- enforce I0 locally
-- generate deterministic local receipts
-- provide falsification fixtures
-
-This repository is not:
-
-- a Gate
-- a constitutional runtime
-- a certification surface
-- a production system
+Minimal Epistemic Wind Tunnel CLI for testing provenance/deixis commitment invariants with local JSON receipts.
 
 Status: BUILT minimal fixture.
+
+This repo is not a Gate, constitutional runtime, certification surface, crypto system, or production proof surface.
